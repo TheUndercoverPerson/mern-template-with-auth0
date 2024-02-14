@@ -1,7 +1,7 @@
 {
-  "name": "mern-template-with-auth0",
+  "name": "MN Games: Games Hub",
   "version": "1.0.0",
-  "description": "MongoDB, Express, React, and Node.JS (MERN) Template with Auth0 React SDK for User Authentication.",
+  "description": "Many fun games to play.",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
